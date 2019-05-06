@@ -1,2 +1,2 @@
-body{background:blue;font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif}
+header{background:blue;font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}header button{background-color:#add8e6;-webkit-transition:-webkit-box-shadow 250ms;transition:-webkit-box-shadow 250ms;transition:box-shadow 250ms;transition:box-shadow 250ms, -webkit-box-shadow 250ms}header button:hover{-webkit-box-shadow:1px 2px gray;box-shadow:1px 2px gray}
 /*# sourceMappingURL=style.min.css.map */
